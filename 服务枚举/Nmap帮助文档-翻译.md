@@ -1,7 +1,5 @@
 有些扫描的详细介绍见:https://www.jianshu.com/p/0f0ca4f4b18d
 ```python
-Nmap 7.70 ( https://nmap.org )
-```
 """
 Nmap 7.70 ( https://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
